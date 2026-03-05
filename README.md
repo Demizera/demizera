@@ -1,1 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=demizera&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=demizera&theme=github-dark-blue&hide_border=true"/>
+</p>
